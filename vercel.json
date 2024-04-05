@@ -1,0 +1,7 @@
+{"rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.liella.club/"
+    }
+  ]
+}
