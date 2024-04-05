@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://nijigaku.club/"
+      "destination": "https://zh.moegirl.org"
     }
   ]
 }
