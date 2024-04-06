@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://moegirl.uk/Mainpage"
+      "destination": "https://anitabi.cn/map"
     }
   ]
 }
