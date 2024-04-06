@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://anitabi.cn/"
+      "destination": "https://lab.magiconch.com/one-last-image/"
     }
   ]
 }
